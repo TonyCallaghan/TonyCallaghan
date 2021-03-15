@@ -1,6 +1,6 @@
 <h1><center> Hello There 👋 <center></h1>
 
-<img src ="bg.gif" width = "100%" height="400">
+<img src ="bg2.gif" width = "100%" height="200">
 <!--
 **TonyCallaghan/TonyCallaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
