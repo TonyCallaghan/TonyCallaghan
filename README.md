@@ -14,17 +14,17 @@
 
 - I'm currently a 3<sup>rd</sup> Computer Science & Software Engineering student in Maynooth University. 
 - I'm looking for internship opportunities in 2024 as part of my course. 
-- Please check out my [previous experience]().
+- Please check out my [previous experience](https://hellotony.me/Docs/Tony_Callaghan_CV.pdf).
 
 ---
 
 <p align="center">
-⏳ Degree progress 🎓: { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.73 % 🎓
+⏳ Degree progress: { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.73 % 🎓
 </p>
 
 ---
 
-☝️ Updated on Thu, 14 Sep 2023 13:18:13 GMT ⏰
+☝️ Updated on Thu, 14 Sep 2023 13:26:16 GMT ⏰
 
 ![Progress Bar CI](https://github.com/TonyCallaghan/TonyCallaghan/workflows/Progress%20Bar%20CI/badge.svg)
 
