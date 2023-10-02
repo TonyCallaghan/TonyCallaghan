@@ -27,7 +27,7 @@ const readme = `\
   </a>
 </p>
 
-- I'm currently a 3<sup>rd</sup> Computer Science & Software Engineering student in Maynooth University. 
+- I'm currently a 3<sup>rd</sup> year Computer Science & Software Engineering student in Maynooth University. 
 - I'm looking for internship opportunities in 2024 as part of my course. 
 - Please check out my [previous experience](https://hellotony.me/Docs/Tony_Callaghan_CV.pdf).
 
