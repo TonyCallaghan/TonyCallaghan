@@ -12,19 +12,19 @@
   </a>
 </p>
 
-- I'm currently a 3<sup>rd</sup> Computer Science & Software Engineering student in Maynooth University. 
+- I'm currently a 3<sup>rd</sup> year Computer Science & Software Engineering student in Maynooth University. 
 - I'm looking for internship opportunities in 2024 as part of my course. 
 - Please check out my [previous experience](https://hellotony.me/Docs/Tony_Callaghan_CV.pdf).
 
 ---
 
 <p align="center">
-⏳ Degree progress: { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.99 % 🎓
+⏳ Degree progress: { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 55.06 % 🎓
 </p>
 
 ---
 
-☝️ Updated on Mon, 02 Oct 2023 00:49:27 GMT ⏰
+☝️ Updated on Tue, 03 Oct 2023 00:49:06 GMT ⏰
 
 ![Progress Bar CI](https://github.com/TonyCallaghan/TonyCallaghan/workflows/Progress%20Bar%20CI/badge.svg)
 
