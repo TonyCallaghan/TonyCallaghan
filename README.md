@@ -7,24 +7,20 @@
   <a href="mailto:a.tc.callaghan@gmail.com">
     <img src="https://img.shields.io/badge/-a.tc.callaghan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.tc.callaghan@gmail.com" alt="Gmail Badge">
   </a>
-  <a href="https://hellotony.me">
-    <img src="https://img.shields.io/badge/-HelloTony.me-22333d?style=flat&logo=nodered&logoColor=43f0c7&link=https://hellotony.me" alt="Website Badge">
-  </a>
 </p>
 
-- I'm currently a 3<sup>rd</sup> year Computer Science & Software Engineering student in Maynooth University. 
-- I'm looking for internship opportunities in 2024 as part of my course. 
-- Please check out my [previous experience](https://hellotony.me/Docs/Tony_Callaghan_CV.pdf).
+- I'm currently a 4<sup>th</sup> year Computer Science & Software Engineering student in Maynooth University.
+- Highly interested in software engineering & cloud computing.
 
 ---
 
 <p align="center">
-⏳ Degree progress: { ███████████████████████▁▁▁▁▁▁▁ } 78.83 % 🎓
+⏳ Degree progress: { ███████████████████████▁▁▁▁▁▁▁ } 78.90 % 🎓
 </p>
 
 ---
 
-☝️ Updated on Tue, 27 Aug 2024 00:59:29 GMT ⏰
+☝️ Updated on Wed, 28 Aug 2024 01:00:03 GMT ⏰
 
 ![Progress Bar CI](https://github.com/TonyCallaghan/TonyCallaghan/workflows/Progress%20Bar%20CI/badge.svg)
 
