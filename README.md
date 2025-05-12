@@ -15,12 +15,12 @@
 ---
 
 <p align="center">
-⏳ Degree progress: { █████████████████████████████▁ } 97.40 % 🎓
+⏳ Degree progress: { █████████████████████████████▁ } 97.47 % 🎓
 </p>
 
 ---
 
-☝️ Updated on Sun, 11 May 2025 01:19:02 GMT ⏰
+☝️ Updated on Mon, 12 May 2025 01:17:19 GMT ⏰
 
 ![Progress Bar CI](https://github.com/TonyCallaghan/TonyCallaghan/workflows/Progress%20Bar%20CI/badge.svg)
 
