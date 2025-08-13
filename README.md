@@ -2,25 +2,37 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Tony-Callaghan/">
-    <img src="https://img.shields.io/badge/-%20Tony%20Callaghan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Tony-Callaghan/" alt="Linkedin Badge">
+    <img
+      src="https://img.shields.io/badge/-Tony%20Callaghan-0072b1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjcyIiB2aWV3Qm94PSIwIDAgNzIgNzIiIHdpZHRoPSI3MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik04LDcyIEw2NCw3MiBDNjguNDE4Mjc4LDcyIDcyLDY4LjQxODI3OCA3Miw2NCBMNzIsOCBDNzIsMy41ODE3MjIgNjguNDE4Mjc4LC04LjExNjI0NTAxZS0xNiA2NCwwIEw4LDAgQzMuNTgxNzIyLDguMTE2MjQ1MDFlLTE2IC01LjQxMDgzMDAxZS0xNiwzLjU4MTcyMiAwLDggTDAsNjQgQzUuNDEwODMwMDFlLTE2LDY4LjQxODI3OCAzLjU4MTcyMiw3MiA4LDcyIFoiIGZpbGw9IiMwMDdFQkIiLz48cGF0aCBkPSJNNjIsNjIgTDUxLjMxNTYyNSw2MiBMNTEuMzE1NjI1LDQzLjgwMjExNDkgQzUxLjMxNTYyNSwzOC44MTI3NTQyIDQ5LjQxOTc5MTcsMzYuMDI0NTMyMyA0NS40NzA3MDMxLDM2LjAyNDUzMjMgQzQxLjE3NDYwOTQsMzYuMDI0NTMyMyAzOC45MzAwNzgxLDM4LjkyNjExMDMgMzguOTMwMDc4MSw0My44MDIxMTQ5IEwzOC45MzAwNzgxLDYyIEwyOC42MzMzMzMzLDYyIEwyOC42MzMzMzMzLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMjcuMzMzMzMzMyBMMzguOTMwMDc4MSwzMi4wMDI5MjgzIEMzOC45MzAwNzgxLDMyLjAwMjkyODMgNDIuMDI2MDQxNywyNi4yNzQyMTUxIDQ5LjM4MjU1MjEsMjYuMjc0MjE1MSBDNTYuNzM1Njc3MSwyNi4yNzQyMTUxIDYyLDMwLjc2NDQ3MDUgNjIsNDAuMDUxMjEyIEw2Miw2MiBaIE0xNi4zNDkzNDksMjIuNzk0MDEzMyBDMTIuODQyMDU3MywyMi43OTQwMTMzIDEwLDE5LjkyOTY1NjcgMTAsMTYuMzk3MDA2NyBDMTAsMTIuODY0MzU2NiAxMi44NDIwNTczLDEwIDE2LjM0OTM0OSwxMCBDMTkuODU2NjQwNiwxMCAyMi42OTcwMDUyLDEyLjg2NDM1NjYgMjIuNjk3MDA1MiwxNi4zOTcwMDY3IEMyMi42OTcwMDUyLDE5LjkyOTY1NjcgMTkuODU2NjQwNiwyMi43OTQwMTMzIDE2LjM0OTM0OSwyMi43OTQwMTMzIFogTTExLjAzMjU1MjEsNjIgTDIxLjc2OTQwMSw2MiBMMjEuNzY5NDAxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsMjcuMzMzMzMzMyBMMTEuMDMyNTUyMSw2MiBaIiBmaWxsPSIjRkZGIi8+PC9nPjwvc3ZnPg==&logoColor=white"
+      alt="LinkedIn Badge"
+    >
   </a>
   <a href="mailto:a.tc.callaghan@gmail.com">
     <img src="https://img.shields.io/badge/-a.tc.callaghan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.tc.callaghan@gmail.com" alt="Gmail Badge">
   </a>
 </p>
 
-- I'm currently a 4<sup>th</sup> year Computer Science & Software Engineering student in Maynooth University.
+
+- I'm currently a 4<sup>th</sup> year Computer Science & Software Engineering Graduate.
 - Highly interested in software engineering & cloud computing.
-
----
-
+- Past companies I interned at:
 <p align="center">
-⏳ Degree progress: { ██████████████████████████████ } 103.33 % 🎓
+  <img src="https://img.shields.io/badge/-Autodesk-1F1F1F?style=flat&logo=autodesk&logoColor=white" alt="Autodesk">
+  <img
+    src="https://img.shields.io/badge/-Yahoo!-FFFFFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMzg2LjM0IDMwMTAuNSIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGltYWdlLXJlbmRlcmluZz0ib3B0aW1pemVRdWFsaXR5IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCI+PHBhdGggZD0iTTAgNzMyLjg4aDY0NS44NGwzNzYuMDcgOTYyLjEgMzgwLjk2LTk2Mi4xaDYyOC43NmwtOTQ2LjggMjI3Ny42Mkg0NTEuOThsMjU5LjE5LTYwMy41M0wuMDIgNzMyLjg4em0yNzYzLjg0IDc2OC43NWgtNzA0LjI2TDI2ODQuNjUgMGw3MDEuNjkuMDMtNjIyLjUgMTUwMS42em0tNTE5Ljc4IDE0My43MmMyMTYuMDkgMCAzOTEuMjUgMTc1LjE3IDM5MS4yNSAzOTEuMjIgMCAyMTYuMDYtMTc1LjE2IDM5MS4yMy0zOTEuMjUgMzkxLjIzLTIxNi4wNiAwLTM5MS4xOS0xNzUuMTctMzkxLjE5LTM5MS4yMyAwLTIxNi4wNSAxNzUuMTYtMzkxLjIyIDM5MS4xOS0zOTEuMjJ6IiBmaWxsPSIjNWYwMWQxIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L3N2Zz4=&logoColor=white"
+    alt="Yahoo!"
+  >
+  <img
+    src="https://img.shields.io/badge/-Workday-3069B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iLTI1MSAyOTggMTY4IDIyNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAtMjUxIDI5OCAxNjggMjI0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGw6I0YzOEIwMDt9LnN0MXtmaWxsOiMwMDVDQjk7fTwvc3R5bGU+PGcgaWQ9ImZhdmljb24tMzJ4MzIiPjxwYXRoIGlkPSJGaWxsLTEiIGNsYXNzPSJzdDAiIGQ9Ik0tMjM5LjksMzc2LjRjLTEsMC0yLTAuMS0zLTAuNGMtNS45LTEuNy05LjMtNy44LTcuNy0xMy44YzAuMi0wLjksMC41LTEuNywwLjgtMi42YzExLjQtMzYuOCw0NC43LTYxLjYsODIuOC02MS42YzM4LjEsMCw3MS40LDI0LjcsODIuOCw2MS41YzAuMywwLjgsMC41LDEuNiwwLjcsMi41YzEuNyw2LTEuNywxMi4yLTcuNiwxMy45Yy01LjksMS43LTEyLTEuOC0xMy43LTcuN2MtMC4yLTAuNi0wLjQtMS4yLTAuNS0xLjhjLTguNS0yNy40LTMzLjMtNDUuOC02MS43LTQ1LjhjLTI4LjQsMC01My4yLDE4LjQtNjEuNyw0NS44Yy0wLjIsMC42LTAuNCwxLjMtMC42LDEuOUMtMjMwLjYsMzczLjItMjM1LDM3Ni40LTIzOS45LDM3Ni40Ii8+PHBhdGggaWQ9IkZpbGwtNCIgY2xhc3M9InN0MSIgZD0iTS04Ny43LDQwNy4yaC0xNS4yYy0yLjIsMC00LDEuNS00LjUsMy41bC0yMC41LDgzLjhjLTAuMywwLTIyLjYtODMuNy0yMi42LTgzLjdjLTAuNi0yLjEtMi41LTMuNi00LjgtMy42aC0yMy42Yy0yLjEsMC00LDEuNC00LjUsMy40bC0yMi41LDg0LjJjLTAuOC0wLjUtMjAuNy04NC4xLTIwLjctODQuMWMtMC41LTIuMS0yLjQtMy41LTQuNS0zLjVoLTE1LjJjLTMuMSwwLTUuMywyLjgtNC41LDUuOGwyOCwxMDUuNmMwLjUsMiwyLjQsMy40LDQuNSwzLjRsMjMuMSwwYzIuMSwwLDQtMS40LDQuNS0zLjRjMy45LTE0LjYsMjMuNC04OC42LDIzLjQtODguNnMyMC40LDc0LDI0LjMsODguNmMwLjUsMiwyLjQsMy40LDQuNSwzLjRsMjMuMSwwYzIuMSwwLDMuOS0xLjQsNC41LTMuNGwyOC0xMDUuNkMtODIuNCw0MTAuMS04NC42LDQwNy4yLTg3LjcsNDA3LjIiLz48L2c+PC9zdmc+"
+    alt="Workday Adaptive Planning"
+  >
 </p>
 
 ---
 
-☝️ Updated on Fri, 01 Aug 2025 01:42:04 GMT ⏰
+<p align="center">
+⏳ Degree progress: { ██████████████████████████████ } 100.00 % 🎓
+</p>
 
-![Progress Bar CI](https://github.com/TonyCallaghan/TonyCallaghan/workflows/Progress%20Bar%20CI/badge.svg)
+---
 
